@@ -8,7 +8,7 @@ A desktop workspace keeps everything local: the app, the git worktrees, the agen
 
 ## What you need before you start
 
-The self-hosting guide lists the requirements plainly. You need a Linux server with a public IP, DNS records for your domain and its `api.` subdomain pointing at that server before the first start, and ports 80 and 443 open inbound. You also need a sandbox provider key (Daytona, Platinum, or E2B) and a model provider key, which you add in the web app after the first sign-in. The instance has to be reachable from the internet so the sandboxes can call back to its API.
+The self-hosting guide lists the requirements plainly. You need a Linux server with a public IP, DNS records for your domain and its `api.` subdomain pointing at that server before the first start, and ports 80 and 443 open inbound. You also need a sandbox provider key (Platinum or the legacy Daytona fallback) and a model provider key, which you add in the web app after the first sign-in. The instance has to be reachable from the internet so the sandboxes can call back to its API.
 
 ## Install and start
 
