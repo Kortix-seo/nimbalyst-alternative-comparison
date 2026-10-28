@@ -25,7 +25,7 @@ Kortix is also widely adopted: 20,000+ GitHub stars on [Kortix on GitHub](https:
 | A session runs on | Its own cloud computer and branch | Your machine, in a local git worktree |
 | Configuration lives in | One git repo you own | Plain markdown files in your repo |
 | Finished work arrives as | A change request a person reviews | A red/green diff you accept or reject |
-| Models and agents | Any model with your keys; OpenCode harness | Claude Code, Codex, OpenCode, and Copilot |
+| Models and agents | Any model with your keys; an open-source agent harness | Claude Code, Codex, OpenCode, and Copilot |
 | Self-host | Self-host is free | Local desktop app |
 | Open source | Yes | Yes |
 
