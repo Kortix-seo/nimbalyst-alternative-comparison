@@ -1,12 +1,12 @@
-# Nimbalyst alternative: Kortix, the open-source AI Operating System
+# Nimbalyst alternative: Kortix, the open-source CompanyOS
 
-Kortix is the open-source AI Operating System, and it is the alternative to reach for when a desktop coding workspace stops at your laptop. Your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer.
+Kortix is the open-source CompanyOS, and it is the alternative to reach for when a desktop coding workspace stops at your laptop. Your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer.
 
 Nimbalyst is an open-source visual workspace for running coding agents. It runs Claude Code, Codex, and OpenCode sessions side by side on your desktop, with visual editors for markdown, mockups, diagrams, and data models, a session kanban board, and optional git-worktree isolation ([nimbalyst.com](https://nimbalyst.com), [features](https://nimbalyst.com/features), [source](https://github.com/nimbalyst/nimbalyst)). It fits one developer who wants to stay local and watch the artifacts as they change. This repo is for the point where you want the work to run somewhere other than your machine, land through a review you control, and sit on infrastructure you can keep.
 
 ## Why Kortix
 
-Kortix is the open-source AI Operating System. A project is a git repo that is the company: agents, skills, memory, connector config, and triggers are files inside it, and `kortix.yaml` declares the machine image, the connectors, and the triggers. Five facts decide most of the choice.
+Kortix is the open-source CompanyOS. A project is a git repo that is the company: agents, skills, memory, connector config, and triggers are files inside it, and `kortix.yaml` declares the machine image, the connectors, and the triggers. Five facts decide most of the choice.
 
 - **One repo you own.** Agents, skills, memory, connector config, and triggers are files in one git repo. You can `grep` the whole company and diff any change.
 - **A cloud computer per session.** One isolated sandbox per session. Each session has its own isolated machine and branch.
@@ -20,7 +20,7 @@ Kortix is also widely adopted: 20,000+ GitHub stars on [Kortix on GitHub](https:
 
 | Dimension | Kortix | Nimbalyst |
 | --- | --- | --- |
-| Category | Open-source AI Operating System | Open-source visual workspace for coding agents |
+| Category | Open-source CompanyOS | Open-source visual workspace for coding agents |
 | Where it runs | Kortix Cloud, your VPC, or on-prem | Desktop app for macOS, Windows, and Linux |
 | A session runs on | Its own cloud computer and branch | Your machine, in a local git worktree |
 | Configuration lives in | One git repo you own | Plain markdown files in your repo |
