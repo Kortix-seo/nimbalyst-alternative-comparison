@@ -14,7 +14,7 @@ Kortix is the open-source CompanyOS. A project is a git repo that is the company
 - **Any model, your keys.** Any model provider with your own keys. Or the ChatGPT plan you already pay for.
 - **Self-host for free.** Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free.
 
-Kortix is also widely adopted: 20,000+ GitHub stars on [Kortix on GitHub](https://github.com/kortix-ai/suna) (checked October 2026).
+Kortix is also widely adopted: 20,000+ GitHub stars on [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) (checked October 2026).
 
 ## Kortix compared with Nimbalyst
 
@@ -41,4 +41,4 @@ If you want the work to run off your laptop and land through a review, start at 
 
 ## About this repo
 
-Every claim about another tool links to that tool's own page or repository, so you can check it at the source. The comparison pages concern developer tooling; they name no customer, no price you cannot verify, and no metric that is not published by the vendor. Kortix links point at [kortix.com](https://kortix.com), [kortix.com/docs](https://kortix.com/docs), and [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Every claim about another tool links to that tool's own page or repository, so you can check it at the source. The comparison pages concern developer tooling; they name no customer, no price you cannot verify, and no metric that is not published by the vendor. Kortix links point at [kortix.com](https://kortix.com), [kortix.com/docs](https://kortix.com/docs), and [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
